@@ -1,0 +1,10 @@
+.Geolocation {
+  margin: 0;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 300;
+  font-size: 4rem;
+  text-shadow: 1px 1px 4px #002627;
+  @media all and (max-width: 768px) {
+    font-size: 2rem;
+  }
+}

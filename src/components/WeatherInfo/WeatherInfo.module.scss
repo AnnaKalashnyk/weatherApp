@@ -1,0 +1,72 @@
+.WeatherInfo {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  flex: 1 1 auto;
+  padding: 20px 30px;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(10px);
+  color: #fff;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 300;
+  &.banner {
+
+  }
+  &.card {
+
+  }
+  &__description {
+    font-size: 2rem;
+    text-shadow: 1px 1px 4px #002627;
+    &> p {
+      margin: 0;
+    }
+    @media all and (max-width: 768px) {
+      font-size: 1.5rem;
+    }
+  }
+}
+
+.Temperature {
+ font-size: 7rem;
+  text-shadow: 1px 1px 4px #002627;
+  @media all and (max-width: 768px) {
+    font-size: 3.5rem;
+  }
+}
+
+.Wind {
+  font-size: 20px;
+  margin-bottom: 10px;
+  text-shadow: 1px 1px 4px #002627;
+  i {
+    margin-right: 5px;
+  }
+  @media all and (max-width: 768px) {
+    font-size: 16px;
+  }
+}
+
+.Precipitation {
+  font-size: 20px;
+  margin-bottom: 10px;
+  text-shadow: 1px 1px 4px #002627;
+  i {
+    margin-right: 5px;
+  }
+  @media all and (max-width: 768px) {
+    font-size: 16px;
+  }
+}
+
+.CurrentConditions_primary {
+  display: flex;
+  flex-direction: column;
+  margin-right: 30px;
+}
+
+.CurrentConditions_secondary {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,32 @@
+{
+  "color-scheme": {
+    "blue": "#487AFA",
+    "yellow": "#F1E821",
+    "green": "#23C0AD",
+    "gradient1": "#23C0AD-#579D91-#EAFDF9-#E8F3F1",
+    "gradient2": "#23C0AD-#00AFC4-#009BD5-#0082D5-#6662BE-#923B92"
+  },
+  "icons": {
+    "ios": "https://icons8.com/icon/pack/weather/ios",
+    "hicon": "https://hicon.cosm.ws/",
+    "weather": "https://dribbble.com/shots/14228885-Weatherly-Icon-Kit"
+  },
+  "inspiration": {
+    "blokchain with gradient at element": "https://dribbble.com/shots/14524678-BlockChain",
+    "trivia app": "https://www.uistore.design/items/trivia-app-ui-kit-for-adobe-xd/",
+    "ios": "https://www.uistore.design/items/macos-bigsur-free-ui-kit/",
+    "coinbase figma": "https://www.uistore.design/items/coinbase-web-and-mobile-free-ui-kit/",
+    "travel": "https://www.uistore.design/items/widgets-free-ui-kit-for-adobe-xd/",
+    "meditation": "https://www.uistore.design/items/meditation-free-app-ui-kit-for-figma/",
+    "dark": "https://www.uistore.design/items/dark-light-ui-components-for-sketch/",
+    "!dashbord": "https://www.uistore.design/items/dashboard-interface-ui-kit-for-sketch/",
+    "material": "https://www.uistore.design/items/material-baseline-design-kit/",
+    "ui kit sunrise": "https://www.uistore.design/items/sunrise-design-system-for-figma/",
+    "glass": "https://dribbble.com/shots/14407519-Glass-UI-Elements",
+    "nutro": "https://ui8.net/harpen-design/products/nutro",
+    "widget weather": "https://dribbble.com/shots/14282395-UI-Weather-Widgets",
+    "real weather": "https://dribbble.com/shots/7118235-Weather-DailyUI-037",
+    "color": "https://dribbble.com/shots/6492343-Weather-App",
+    "!weather scheme": "https://dribbble.com/shots/9873306-weather-application"
+  }
+}

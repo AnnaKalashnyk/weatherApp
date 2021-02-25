@@ -1,0 +1,26 @@
+.Input {
+  input {
+    width: 100%;
+    border: 0;
+    border-bottom: 3px solid #487AFA;
+    outline: 0;
+    font-size: 1.3rem;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #002627;
+    padding: 3px 0;
+    background: transparent;
+    transition: border-color 0.2s;
+
+    &:focus {
+      border-image: linear-gradient(to right, #487AFA, #002627);
+      border-image-slice: 1;
+    }
+
+    &::placeholder {
+      color: #487AFA;
+    }
+  }
+  &.search {
+
+  }
+}
